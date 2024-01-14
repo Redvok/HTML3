@@ -1,0 +1,98 @@
+/* Task 1*/
+/*
+#elem { 
+ 	background-image: url("c:/Users/WellBeru/Pictures/апап/bg.png");
+	background-repeat: repeat; 
+    width: 1900px; 
+    height: 945px; 
+}*/
+ 
+/* Task 2*/
+/*
+#elem { 
+ 	background-image: url("c:/Users/WellBeru/Pictures/апап/bg.png"); 
+    background-repeat: repeat-y; 
+    width: 1900px; 
+    height: 945px;
+}*/ 
+ 
+/* Task 3*/
+/*
+#elem { 
+	background-image: url("c:/Users/WellBeru/Pictures/апап/bg.png"); 
+    background-repeat: repeat-x; 
+    width: 1900px; 
+    height: 945px;
+}*/ 
+ 
+/* Task 4.1*/
+/*
+#elem {
+	background-image: url("c:/Users/WellBeru/Pictures/апап/img.png");
+    background-position: center center;
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}*/
+
+
+/* Task 4.2*/
+/*
+#elem {
+	background-image: url("c:/Users/WellBeru/Pictures/апап/img.png");
+    background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}*/
+
+
+/* Task 4.3*/
+/*
+#elem {
+	background-attachment: fixed;
+	background-image: url("c:/Users/WellBeru/Pictures/апап/img.png");
+	background-repeat: repeat;
+	text-align: justify;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 50px;
+	color: white;
+}*/
+
+
+/* Task 4.4*/
+/*
+#elem {
+	background-image: url("c:/Users/WellBeru/Pictures/апап/img.png");
+	background-repeat: no-repeat;
+	background-clip: content-box;
+	background-size: 300px 300px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+	padding: 30px;
+}*/
+
+
+/* Task 4.5*/
+/*
+#elem {
+	background-image: url("c:/Users/WellBeru/Pictures/апап/img.png");
+	background-origin: border-box;
+	border: 10px dashed black;
+	padding: 30px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}*/
+
+
+/* Task 4.5*/
+/*
+#elem {
+	background: none;
+}*/

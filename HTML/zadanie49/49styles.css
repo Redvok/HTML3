@@ -1,0 +1,23 @@
+/* Task 1 */
+/*
+p:first-of-type {
+    color:red;
+}
+p:last-of-type {
+    color:red;
+}*/
+
+/* Task 2 */
+/*
+p:nth-of-type(even) {
+    color: red;
+}
+h2:nth-last-of-type(odd) {
+    color: blue;
+}*/
+
+/* Task 3 */
+/*
+p:only-of-type {
+	color: red;
+}*/
